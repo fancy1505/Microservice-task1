@@ -169,7 +169,9 @@ docker-compose up --build
 # Direct Services
 <img width="911" height="503" alt="image" src="https://github.com/user-attachments/assets/973e6df5-b89a-4e71-ad9e-714f40ee168b" />
 <img width="850" height="328" alt="image" src="https://github.com/user-attachments/assets/e56edfcc-f35b-4c92-9e3a-35fb9a01e482" />
-Proper screenshots I have attached in the screenshot.png 
+<img width="959" height="638" alt="image" src="https://github.com/user-attachments/assets/8a82f751-8bc3-45d6-ab30-32441fb3f11f" />
+
+Note: Kindly refer screenshots session for all the tasks I have performed are mentioned there  in the screenshot.png 
 
 
 
